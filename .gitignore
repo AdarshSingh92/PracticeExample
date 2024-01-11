@@ -1,2 +1,5 @@
 /PracticeExample/.vs/PracticeExample
 /PracticeExample/obj
+/.vs
+/PracticeExample/FactoryDesignPattern/bin/Debug/net8.0
+/PracticeExample/FactoryDesignPattern/obj
