@@ -5,3 +5,5 @@
 /PracticeExample/FactoryDesignPattern/obj
 /PracticeExample/.vs/ProjectEvaluation
 /CharacterCountOfString/obj
+**/bin/
+**/obj/
